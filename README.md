@@ -1,5 +1,10 @@
 # LaundryHub
 
+## Arsitektur Sistem
+
+LaundryHub merupakan sistem yang terintegrasi antara aplikasi mobile, website, backend, dan database. Aplikasi mobile digunakan oleh Customer dan Owner untuk mengelola layanan laundry, sedangkan website dapat diakses melalui https://laundryhub.my.id/. Seluruh data pengguna, layanan, pesanan, dan transaksi disimpan pada database yang sama dan dikelola melalui backend/API yang berfungsi sebagai penghubung antara aplikasi mobile dan website. Dengan menggunakan backend dan database yang terpusat, setiap perubahan data pada salah satu platform akan otomatis tersinkronisasi dan dapat diakses secara real-time pada platform lainnya.
+
+
 ## Website
 
 Aplikasi web dapat diakses melalui:
