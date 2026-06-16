@@ -86,3 +86,6 @@ password
 ### Owner
 
 Gunakan akun owner yang tersedia pada database aplikasi untuk mengakses fitur administrasi dan manajemen laundry
+
+## Catatan:
+## Untuk mencoba fitur Forgot Password, gunakan alamat email dengan domain yang valid, misalnya @gmail.com
